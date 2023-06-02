@@ -78,5 +78,4 @@ for (z in element_list) {
   dev.off()  
 }
 
-#Error: Discrete value supplied to continuous scale   scale_y_continuousここがおかしい
  
